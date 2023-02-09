@@ -144,8 +144,14 @@ p,.text{
 .auto-container{
 	position:static;
 	max-width:1200px;
+	/* height: 180px; */
 	padding:0px 15px;
 	margin:auto auto;
+}
+
+.move_title {
+	margin-top: 50px;
+	text-shadow: 1px 1px #000;
 }
 
 .slide__words{
