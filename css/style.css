@@ -122,6 +122,10 @@ textarea{
 	text-shadow: 1px 1px #000;
 }
 
+.client_img {
+	height: 50px;
+}
+
 .nav__title {
 	text-shadow: 0.7px 0.7px #000;
 	
@@ -181,6 +185,11 @@ ul,li{
 .nav__list{
 	color: #fff;
 	text-shadow: 1px 1px #000;
+}
+
+.project_fit {
+	object-fit: cover;
+	height: 200px;
 }
 
 .service__fit {
